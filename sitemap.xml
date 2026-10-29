@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- DEPLOY STEP: replace https://example.com with the live domain -->
+<!-- DEPLOY STEP: replace https://one0k-web2.onrender.com with the live domain -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://example.com/</loc><lastmod>2026-10-25</lastmod></url>
-  <url><loc>https://example.com/privacy.html</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://one0k-web2.onrender.com/</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://one0k-web2.onrender.com/privacy.html</loc><lastmod>2026-10-29</lastmod></url>
 </urlset>

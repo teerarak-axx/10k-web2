@@ -1,5 +1,5 @@
-# DEPLOY STEP: replace https://example.com with the live domain
+# DEPLOY STEP: replace https://one0k-web2.onrender.com with the live domain
 User-agent: *
 Allow: /
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://one0k-web2.onrender.com/sitemap.xml
